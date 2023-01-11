@@ -1,8 +1,8 @@
 var authConfig = {
   version: "4.5",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: 'ClientID', // Google Client ID
-  client_secret: 'ClientSecret', // Google Client Secret
+  client_id: '843369013978-gft2jved3551hobicd8e53tuv01n6e1q.apps.googleusercontent.com', // Google Client ID
+  client_secret: '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', // Google Client Secret
   domain: "! ",
   black_list: ["email@gmail.com"]
   };
@@ -584,7 +584,7 @@ var authConfig = {
   
   
   
-      </style>
+ 1//04e6wRrgai7pwCgYIARAAGAQSNwF-L9Irjjnw2S_Gd9ZFcoM9ACa-1HtFivCmBaaSAEXjX9ZwE6GSel2TxuW8foXgEMgh9V1Sa9E     </style>
   </head>
   
   
